@@ -5,11 +5,11 @@
 This is a **Java-based SMTP Client application** that uses only **standard Java libraries** (`java.net`, `java.io`, `javax.swing`, etc.) for implemented. It provides a user-friendly **Graphical User Interface (GUI)** to send emails through MailHog online SMTP server, and supports the following features:
 
 - Sending of plain text emails.
-- **Authentication** using `AUTH LOGIN` method.
-- Support of **multiple recipients**.
-- **Attached of multiple files** of any type.
-- **Scheduling of email sending** 
-- **Sending history recording** 
+- Authentication using `AUTH LOGIN` method.
+- Support of multiple recipients.
+- Attached of multiple files of any type.
+- Scheduling of email sending. 
+- Sending history recording. 
 
 > 
 
