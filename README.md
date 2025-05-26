@@ -27,9 +27,9 @@ For a deeper comprehension of the application, please read the main source code 
 
 
 
-## How to Use
 
-### Requirements
+
+## Requirements
 
 - Java Development Kit (**JDK 8** or above)
 - AN IDE that supported Java language  (Visual Studio Code recommended).
@@ -38,10 +38,16 @@ For a deeper comprehension of the application, please read the main source code 
 
 
 
-### Build & Run
+## How to Run
+####
+Recommended
+Simply, you can click to install the file [SMTP-Client](https://github.com/lethaian29062004/A-Basic-Implementation-of-An-SMTP-Client/blob/main/SMTP-Client.exe) & run the application directly.
 
-- Open the Terminal (Ctrl + Shift + ` in Visual Studio Code), then paste these commands : 
 
+####
+Alternative
+- Open the folder containing that project in you IDE.
+- Open the Terminal (Ctrl + Shift + ` in Visual Studio Code), then paste these commands for building the application manually : 
 - javac SMTPClientJavaGUI.java
 - java SMTPClientJavaGUI
 
