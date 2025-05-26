@@ -33,9 +33,9 @@ please read the main source code in the file (SMTPClientJavaGUI.java) with my co
 ## Requirements
 
 - Java Development Kit (**JDK 8** or above)
-- AN IDE that supported Java language  (Visual Studio Code recommended).
-- MailHog installed (https://github.com/mailhog/MailHog) & opening.
-- The MailHog SMTP server running on 'http://localhost:8025/'.
+- AN **IDE** that supported Java language  (**Visual Studio Code** recommended).
+- **MailHog** installed (https://github.com/mailhog/MailHog) & opening.
+- The **MailHog SMTP server** running on 'http://localhost:8025/'.
 
 
 
