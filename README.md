@@ -1,4 +1,4 @@
-# A-Basic-Implementation-of-An-SMTP-Client
+# A-Basic-Implementation-of-The-SMTP-Client
 
 ## Description
 
