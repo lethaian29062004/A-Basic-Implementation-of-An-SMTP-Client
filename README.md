@@ -40,7 +40,7 @@ This is a **Java-based SMTP Client Application** that uses only **standard Java 
 
 ## How to Run
 ####
-**Recommended**␣␣  
+**Recommended**  
 Simply, you can click to install the file **[SMTP-Client](https://github.com/lethaian29062004/A-Basic-Implementation-of-An-SMTP-Client/blob/main/SMTP-Client.exe)** & run the application on your computer directly.
 
 
