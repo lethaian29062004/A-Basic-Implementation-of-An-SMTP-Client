@@ -40,24 +40,22 @@ For a deeper comprehension of the application, please read the main source code 
 
 ### ▶️ Build & Run
 
-Open the Terminal (Ctrl + Shift + ` in Visual Studio Code), then paste these commands : 
+- Open the Terminal (Ctrl + Shift + ` in Visual Studio Code), then paste these commands : 
 
-javac SMTPClientJavaGUI.java
-java SMTPClientJavaGUI
+- javac SMTPClientJavaGUI.java
+- java SMTPClientJavaGUI
 
 
 
 ### Expected Output
-After successfully sending an email, the application automatically logs the details of your sent email into a CSV file named ('sent-email.csv') .
-
-Then, you will see received emails displayed in MailHog when sent via your app to port 1025.
+- After successfully sending an email, the application automatically logs the details of your sent email into a CSV file named ('sent-email.csv') .
+- Then, you will see received emails displayed in MailHog when sent via your app to port 1025.
 
 
 
 
 
 ### Suggested Input Data (for testing)
-
 From: Sender@gmail.com  
 To: Receiver_1@gmail.com, Receiver_2@gmail.com, Receiver_3@gmail.com  
 Subject: Testing  
