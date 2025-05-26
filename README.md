@@ -18,7 +18,7 @@ Please read the main source code in the file ( **SMTPClientJavaGUI.java** ) with
 
 
 
-## 📁 Project Structure
+## Project Structure
 ```
  ┣ 📂Project Folder
  ┃ ┣ SMTPClientJavaGUI.java       # Main source code
@@ -32,7 +32,7 @@ Please read the main source code in the file ( **SMTPClientJavaGUI.java** ) with
 
 ## Requirements
 
-- Java Development Kit ( **JDK 8** or above )
+- Java Development Kit ( **JDK 8** or above ).
 - AN **IDE** that supported Java language  ( **Visual Studio Code** recommended ).
 - **MailHog** installed ( https://github.com/mailhog/MailHog ) & opening.
 - The **MailHog SMTP server** running on 'http://localhost:8025/'.
@@ -57,7 +57,8 @@ If you click on the application after it's installed & get **the warning pop-up 
 
 
 ### Expected Output
-- After successfully sending an email, the application automatically logs the details of your sent email into a CSV file named ( **sent-email.csv** ) .
+- After successfully sending an email, the application automatically logs the details of your sent email into a CSV file named <br>
+  ( **sent-email.csv** ) .
 - Then, you will see **received emails displayed in MailHog** when sent via your app to port 1025.
 
 
