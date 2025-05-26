@@ -18,10 +18,12 @@ For a deeper comprehension of the application, please read the main source code 
 
 
 ## 📁 Project Structure
+```
  ┣ 📂Project Folder
  ┃ ┣ SMTPClientJavaGUI.java       # Main source code
  ┃ ┣ sent-email.csv               # Auto-generated email history
  ┃ ┣  README.md
+```
 
 
 
