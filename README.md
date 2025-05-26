@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a **Java-based SMTP Client Application** that uses only **Standard Java Libraries** (`java.net`, `java.io`, `javax.swing`, etc.) for implemented the main functions. It provides a user-friendly **Graphical User Interface (GUI)** to send emails through **MailHog online SMTP server**, and supports the following features:
+This is a **Java-based SMTP Client Application** that uses only **Standard Java Libraries** ( `java.net`, `java.io`, `javax.swing`, etc. ) for implemented the main functions. It provides a user-friendly **Graphical User Interface ( GUI )** to send emails through **MailHog online SMTP server**, and supports the following features:
 
 - **Sending of plain text emails.**
 - **Authentication** using `AUTH LOGIN` method.
@@ -14,7 +14,7 @@ This is a **Java-based SMTP Client Application** that uses only **Standard Java 
 > 
 
 For a deeper comprehension of the application : <br>
-Please read the main source code in the file (SMTPClientJavaGUI.java) with my comments in detail of each important parts .
+Please read the main source code in the file ( **SMTPClientJavaGUI.java** ) with my comments in detail of each important parts .
 
 
 
@@ -32,9 +32,9 @@ Please read the main source code in the file (SMTPClientJavaGUI.java) with my co
 
 ## Requirements
 
-- Java Development Kit (**JDK 8** or above)
-- AN **IDE** that supported Java language  (**Visual Studio Code** recommended).
-- **MailHog** installed (https://github.com/mailhog/MailHog) & opening.
+- Java Development Kit ( **JDK 8** or above )
+- AN **IDE** that supported Java language  ( **Visual Studio Code** recommended ).
+- **MailHog** installed ( https://github.com/mailhog/MailHog ) & opening.
 - The **MailHog SMTP server** running on 'http://localhost:8025/'.
 
 
@@ -50,27 +50,27 @@ If you click on the application after it's installed & get **the warning pop-up 
 ####
 **Alternative**
 - **Open the folder** containing that project in you IDE.
-- **Open the Terminal** (Ctrl + Shift + ` in Visual Studio Code), then paste these commands for building the application manually : 
+- **Open the Terminal** ( Ctrl + Shift + ` in Visual Studio Code ), then paste these commands for building the application manually : 
 - **javac SMTPClientJavaGUI.java**
 - **java SMTPClientJavaGUI**
 
 
 
 ### Expected Output
-- After successfully sending an email, the application automatically logs the details of your sent email into a CSV file named (**sent-email.csv**) .
+- After successfully sending an email, the application automatically logs the details of your sent email into a CSV file named ( **sent-email.csv** ) .
 - Then, you will see **received emails displayed in MailHog** when sent via your app to port 1025.
 
 
 
 
 
-### Suggested Input Data (for testing)
+### Suggested Input Data ( for testing )
 **From:** Sender@gmail.com  
 **To:** Receiver_1@gmail.com, Receiver_2@gmail.com, Receiver_3@gmail.com  
 **Subject:** Testing  
 **Username:** AKLM10422003  
 **Password:** Lt@29062004  
 **Content:** This message is used for testing!  
-**Attachments:** (Choose any files, any file types)  
-**Date & Time:** (Optional - for scheduling)
+**Attachments:** ( Choose any files, any file types )  
+**Date & Time:** ( Optional - for scheduling )
 
