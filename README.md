@@ -50,9 +50,9 @@ If you click on the application after it's installed & get **the warning pop-up 
 ####
 **Alternative**
 - **Open the folder** containing that project in you IDE.
-- **Open the Terminal** ( Ctrl + Shift + ` in Visual Studio Code ), then paste these commands for building the application manually : 
-- **javac SMTPClientJavaGUI.java**
-- **java SMTPClientJavaGUI**
+- **Open the Terminal** ( Ctrl + Shift + ` in Visual Studio Code ), then paste these commands for building the application manually : <br> 
+  **javac SMTPClientJavaGUI.java** <br>
+  **java SMTPClientJavaGUI**
 
 
 
