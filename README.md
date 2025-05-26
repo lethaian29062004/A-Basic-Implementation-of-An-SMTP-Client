@@ -1,6 +1,6 @@
 # A-Basic-Implementation-of-An-SMTP-Client
 
-## 🔍 Description
+## Description
 
 This is a **Java-based SMTP Client application** that uses only **standard Java libraries** (`java.net`, `java.io`, `javax.swing`, etc.) for implemented. It provides a user-friendly **Graphical User Interface (GUI)** to send emails through MailHog online SMTP server, and supports the following features:
 
@@ -27,9 +27,9 @@ For a deeper comprehension of the application, please read the main source code 
 
 
 
-## 🖥️ How to Use
+## How to Use
 
-### ✅ Requirements
+### Requirements
 
 - Java Development Kit (**JDK 8** or above)
 - AN IDE that supported Java language  (Visual Studio Code recommended).
@@ -38,7 +38,7 @@ For a deeper comprehension of the application, please read the main source code 
 
 
 
-### ▶️ Build & Run
+### Build & Run
 
 - Open the Terminal (Ctrl + Shift + ` in Visual Studio Code), then paste these commands : 
 
