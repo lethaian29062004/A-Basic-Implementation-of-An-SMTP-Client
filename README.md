@@ -43,6 +43,8 @@ please read the main source code in the file (SMTPClientJavaGUI.java) with my co
 ####
 **Recommended**  
 Simply, you can click to install the file **[SMTP-Client](https://github.com/lethaian29062004/A-Basic-Implementation-of-An-SMTP-Client/raw/main/SMTP-Client.exe)** & run the application on your computer directly.
+***Note***
+If you click on the application after it's installed & get the warning pop-up from Microsoft Defender SmartScreen, click on **More info** then **Run anyway** .
 
 
 ####
