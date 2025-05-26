@@ -13,7 +13,8 @@ This is a **Java-based SMTP Client Application** that uses only **standard Java 
 
 > 
 
-**For a deeper comprehension of the application, please read the main source code in the file (SMTPClientJavaGUI.java) with my comments in detail of each important parts .**
+For a deeper comprehension of the application, 
+please read the main source code in the file (SMTPClientJavaGUI.java) with my comments in detail of each important parts .
 
 
 
