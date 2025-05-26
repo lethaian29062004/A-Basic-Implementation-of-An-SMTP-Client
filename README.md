@@ -42,7 +42,7 @@ please read the main source code in the file (SMTPClientJavaGUI.java) with my co
 ## How to Run
 ####
 **Recommended**  
-Simply, you can click to install the file **[SMTP-Client](https://github.com/lethaian29062004/A-Basic-Implementation-of-An-SMTP-Client/blob/main/SMTP-Client.exe)** & run the application on your computer directly.
+Simply, you can click to install the file **[SMTP-Client](https://github.com/lethaian29062004/A-Basic-Implementation-of-An-SMTP-Client/raw/main/SMTP-Client.exe)** & run the application on your computer directly.
 
 
 ####
